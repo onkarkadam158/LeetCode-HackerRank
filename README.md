@@ -8,7 +8,8 @@ My current rating is 1530 with global rank of 87,486/261,648.
 Here is link to my LeetCode Profile
 
 https://leetcode.com/onkarkadam158/
-![image](https://user-images.githubusercontent.com/42216838/165035138-3ff49c79-2114-430b-891c-e2510fa80daa.png)
+ ![image](https://user-images.githubusercontent.com/42216838/195175580-c549edc7-96f6-4aa4-96a0-fa144abe5cc0.png)
+
 
 # HackerRank
 
@@ -29,4 +30,5 @@ I have also completed basic Certifiactions of Problem solving, C++ and SQL.
 Here is link to my HackerRank Profile.
 
 https://www.hackerrank.com/onkarkadam158?hr_r=1
-![image](https://user-images.githubusercontent.com/42216838/165035290-530b6f65-6b85-482c-a649-7e41623b2a2f.png)
+![image](https://user-images.githubusercontent.com/42216838/195175713-bc5610e9-8c77-4c59-b1b4-43287b8dae8e.png)
+
