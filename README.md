@@ -79,6 +79,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
