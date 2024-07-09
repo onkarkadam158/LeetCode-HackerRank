@@ -36,21 +36,25 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
