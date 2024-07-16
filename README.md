@@ -40,6 +40,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -164,9 +166,11 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
