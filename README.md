@@ -45,6 +45,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
@@ -79,6 +80,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -154,6 +156,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
