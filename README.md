@@ -73,6 +73,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1293-three-consecutive-odds) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
@@ -108,6 +109,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Greedy
 |  |
 | ------- |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -141,6 +143,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Union Find
 |  |
