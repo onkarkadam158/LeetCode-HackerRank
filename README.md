@@ -71,6 +71,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -97,6 +98,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Hash Table
@@ -199,6 +201,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +236,5 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
