@@ -2,9 +2,7 @@ class Solution {
 public:
     void print(vector<vector<int>>&v){
         for(auto &a:v){
-            for(auto &x:a){
-                cout<<x<<" ";
-            }
+            for(auto &x:a) cout<<x<<" ";
             cout<<endl;
         }
     }
@@ -33,7 +31,8 @@ public:
         }
         return count-1;
     }
-    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+    //soultion 1
+    int DijkstraSolution(int n, vector<vector<int>>& edges, int distanceThreshold){
         vector<vector<pair<int,int>>>adj(n);
         for(auto a:edges){
             adj[a[0]].push_back({a[1],a[2]});
@@ -50,6 +49,68 @@ public:
             if(cityReachable[i]==mini) return i;
         }
         return 0;
-
+    }
+    //solution 2
+    int FloydWarshallSolution(int n, vector<vector<int>>& edges, int distanceThreshold){
+        vector<vector<int>>adj(n,vector<int>(n,1e9));
+        for(auto a:edges){
+            int i=a[0],j=a[1],wt=a[2];
+            adj[i][j]=wt;
+            adj[j][i]=wt;
+        }
+        for(int i=0;i<n;i++) adj[i][i]=0;
+        
+        for(int k=0;k<n;k++){
+            for(int i=0;i<n;i++){
+                for(int j=0;j<n;j++){
+                    adj[i][j]=min(adj[i][j], adj[i][k] + adj[k][j] );
+                }
+            }
+        }
+        print(adj);
+        int maxCount=n,node=0;
+        for(int i=0;i<n;i++){
+            int count=0;
+            for(int j=0;j<n;j++){
+               if(i!=j and adj[i][j]<=distanceThreshold){
+                    count++;
+               }
+            }
+            if(count<=maxCount){
+                maxCount=count;
+                node=i;
+            }
+        }
+        return node;
+    }
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        // return DijkstraSolution(n,edges,distanceThreshold);
+        return FloydWarshallSolution(n,edges,distanceThreshold);
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
