@@ -98,6 +98,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -112,6 +113,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
+| [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
@@ -246,6 +249,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
