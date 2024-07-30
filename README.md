@@ -167,6 +167,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
@@ -205,6 +206,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -215,6 +217,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
