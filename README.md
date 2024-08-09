@@ -94,6 +94,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1293-three-consecutive-odds) |
+| [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -181,6 +182,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -273,4 +275,8 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Prefix Sum
+|  |
+| ------- |
+| [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 <!---LeetCode Topics End-->
