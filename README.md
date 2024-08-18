@@ -123,6 +123,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
+| [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
@@ -176,6 +177,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -184,6 +186,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
@@ -263,6 +266,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
