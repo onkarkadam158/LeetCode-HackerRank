@@ -38,6 +38,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
@@ -56,6 +57,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
@@ -97,6 +99,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
@@ -126,6 +129,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -148,6 +152,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -213,6 +218,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
@@ -236,6 +242,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
 | [0664-strange-printer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
