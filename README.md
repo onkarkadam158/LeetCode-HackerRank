@@ -190,6 +190,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -234,6 +235,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
+| [0664-strange-printer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
