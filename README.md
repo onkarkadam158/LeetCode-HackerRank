@@ -36,6 +36,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
@@ -259,6 +260,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -267,6 +269,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -274,6 +277,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
