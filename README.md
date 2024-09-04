@@ -105,6 +105,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0624-maximum-distance-in-arrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
+| [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
@@ -138,6 +139,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
@@ -183,6 +185,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
+| [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
