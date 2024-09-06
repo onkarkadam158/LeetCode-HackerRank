@@ -131,6 +131,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +183,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
