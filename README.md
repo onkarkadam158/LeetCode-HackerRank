@@ -116,6 +116,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -362,6 +363,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
+| [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Strongly Connected Component
 |  |
@@ -378,6 +380,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
