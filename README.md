@@ -142,6 +142,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +187,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -367,6 +370,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -410,4 +414,8 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 <!---LeetCode Topics End-->
