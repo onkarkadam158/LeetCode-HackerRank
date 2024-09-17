@@ -113,6 +113,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
+| [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -307,6 +308,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
+| [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
@@ -388,6 +390,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
+| [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Prefix Sum
 |  |
@@ -412,6 +415,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
+| [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Bit Manipulation
@@ -432,4 +436,8 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
+## Data Stream
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
