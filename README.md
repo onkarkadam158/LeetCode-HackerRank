@@ -231,6 +231,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0564-find-the-closest-palindrome) |
@@ -245,6 +246,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0650-2-keys-keyboard) |
@@ -282,6 +284,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -298,6 +301,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
 | [0564-find-the-closest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0564-find-the-closest-palindrome) |
@@ -440,4 +444,8 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
