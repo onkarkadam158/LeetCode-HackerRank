@@ -302,6 +302,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
@@ -451,4 +452,16 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
