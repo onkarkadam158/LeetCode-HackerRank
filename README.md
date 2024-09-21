@@ -40,6 +40,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0207-course-schedule](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0386-lexicographical-numbers) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
@@ -419,6 +420,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
