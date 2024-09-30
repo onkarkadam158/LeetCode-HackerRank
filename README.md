@@ -128,6 +128,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -353,6 +354,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0776-n-ary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
@@ -420,6 +422,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Prefix Sum
 |  |
