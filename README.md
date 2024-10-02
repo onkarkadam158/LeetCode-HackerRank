@@ -121,6 +121,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
@@ -172,6 +173,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
@@ -203,6 +205,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
