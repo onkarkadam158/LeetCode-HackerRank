@@ -109,6 +109,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
@@ -167,6 +168,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
@@ -204,6 +206,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
@@ -217,6 +220,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -393,6 +397,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
@@ -452,6 +457,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
