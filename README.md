@@ -105,6 +105,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
@@ -167,6 +168,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0433-minimum-genetic-mutation) |
@@ -209,6 +211,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -414,6 +417,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -446,6 +450,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -546,8 +551,17 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
