@@ -242,6 +242,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
@@ -411,6 +412,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0744-network-delay-time) |
@@ -540,4 +542,12 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
