@@ -143,6 +143,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -225,6 +226,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
@@ -435,6 +437,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
+| [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
