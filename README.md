@@ -160,6 +160,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -207,6 +208,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3195-separate-black-and-white-balls](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -280,6 +282,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2155-find-missing-observations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2411-spiral-matrix-iv) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Math
@@ -455,6 +458,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
