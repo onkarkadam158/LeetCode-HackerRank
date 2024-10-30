@@ -143,6 +143,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -219,6 +220,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -250,6 +252,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -314,6 +317,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
