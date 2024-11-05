@@ -109,6 +109,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -178,6 +179,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -214,6 +216,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -225,6 +228,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -293,6 +297,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
@@ -542,6 +547,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
