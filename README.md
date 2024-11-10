@@ -171,6 +171,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3376-longest-common-suffix-queries](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3376-longest-common-suffix-queries) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
@@ -531,6 +532,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
@@ -561,6 +563,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Brainteaser
 |  |
 | ------- |
