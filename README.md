@@ -156,6 +156,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2067-maximum-number-of-points-with-cost](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2155-find-missing-observations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2155-find-missing-observations) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
@@ -227,6 +228,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
 |  |
@@ -244,6 +246,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
