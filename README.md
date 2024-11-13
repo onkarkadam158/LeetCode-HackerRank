@@ -109,6 +109,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
@@ -312,6 +313,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
@@ -347,6 +349,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
