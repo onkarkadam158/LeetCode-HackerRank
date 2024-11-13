@@ -109,6 +109,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +182,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
@@ -343,6 +345,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
