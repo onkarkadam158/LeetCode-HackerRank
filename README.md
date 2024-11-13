@@ -108,6 +108,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
@@ -214,6 +215,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
