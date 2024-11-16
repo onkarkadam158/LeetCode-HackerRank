@@ -222,6 +222,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0015-3sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -297,6 +298,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
