@@ -303,6 +303,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
@@ -397,6 +398,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
