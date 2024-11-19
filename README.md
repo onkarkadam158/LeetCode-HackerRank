@@ -603,6 +603,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
@@ -655,6 +656,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
