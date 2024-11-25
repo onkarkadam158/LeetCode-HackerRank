@@ -1,9 +1,9 @@
 # LeetCode
-Here I have Documented the solutions of the study plans of leetcode platforms. So far I have completed the Programming Skills module and Data Structure Module 1.
+Here I have Documented the solutions of the study plans of LeetCode platforms. So far I have completed the Programming Skills module and Data Structure Module 1.
 
-As of now I have solved almost 514+ questions on LeetCode and attended 28+ contests so far.
+As of now I have solved almost 1355+ questions on LeetCode and attended 70+ contests so far.
 
-My current rating is 1530 with a global rank of 87,486/261,648.
+My current rating is 1742 with a global rank of 62,375/627,990
 
 Here is a link to my LeetCode Profile
 
