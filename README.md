@@ -7,7 +7,10 @@ My current rating is 1530 with a global rank of 87,486/261,648.
 
 Here is a link to my LeetCode Profile
 
-https://leetcode.com/onkarkadam158/
+https://leetcode.com/u/honestmineroflccoins/
+
+![image](https://github.com/user-attachments/assets/3451c89d-0ac4-4e1a-83f2-ef8f9ec0e8a2)
+
 
 # HackerRank
 
