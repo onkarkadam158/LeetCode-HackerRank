@@ -184,6 +184,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -249,6 +250,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2271-rearrange-array-elements-by-sign](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -291,6 +293,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
@@ -311,6 +314,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3195-separate-black-and-white-balls) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Linked List
