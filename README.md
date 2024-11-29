@@ -85,6 +85,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -101,6 +102,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -188,6 +190,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -414,6 +417,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Union Find
 |  |
@@ -552,6 +556,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -564,6 +569,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
