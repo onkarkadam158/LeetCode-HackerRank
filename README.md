@@ -106,6 +106,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -203,6 +204,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +424,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -562,6 +565,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -577,6 +581,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Backtracking
 |  |
 | ------- |
