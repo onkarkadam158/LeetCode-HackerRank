@@ -76,6 +76,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
@@ -156,6 +157,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -412,6 +414,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
