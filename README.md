@@ -133,6 +133,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -270,6 +271,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
