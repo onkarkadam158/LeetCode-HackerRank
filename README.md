@@ -212,6 +212,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3632-button-with-longest-push-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3632-button-with-longest-push-time) |
+| [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -376,6 +377,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 ## Math
 |  |
 | ------- |
