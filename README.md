@@ -380,6 +380,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 ## Math
 |  |
@@ -400,6 +401,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
+| [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
