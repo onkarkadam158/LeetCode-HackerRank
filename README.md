@@ -213,6 +213,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3632-button-with-longest-push-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3632-button-with-longest-push-time) |
+| [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -643,6 +644,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -659,6 +661,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
