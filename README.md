@@ -434,6 +434,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2067-maximum-number-of-points-with-cost](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
