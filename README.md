@@ -208,6 +208,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -537,6 +538,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -670,6 +672,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 ## Strongly Connected Component
 |  |
