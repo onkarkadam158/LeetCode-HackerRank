@@ -197,6 +197,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
@@ -670,6 +671,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1537-maximum-score-after-splitting-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2358-number-of-ways-to-split-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
