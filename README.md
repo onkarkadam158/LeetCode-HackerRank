@@ -253,6 +253,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -533,6 +534,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -670,6 +672,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -722,6 +725,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
