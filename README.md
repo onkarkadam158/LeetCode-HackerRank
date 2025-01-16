@@ -208,6 +208,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -753,12 +754,14 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Enumeration
 |  |
 | ------- |
