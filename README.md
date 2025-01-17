@@ -217,6 +217,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
+| [2792-neighboring-bitwise-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2792-neighboring-bitwise-xor) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -755,6 +756,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
