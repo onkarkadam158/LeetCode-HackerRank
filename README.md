@@ -84,6 +84,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
@@ -104,6 +105,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -171,6 +173,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1524-string-matching-in-an-array) |
@@ -467,6 +470,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -629,6 +633,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1304-longest-happy-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
@@ -648,6 +653,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0803-cheapest-flights-within-k-stops](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
