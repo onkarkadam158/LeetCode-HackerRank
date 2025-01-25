@@ -232,6 +232,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2755-extra-characters-in-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2755-extra-characters-in-a-string) |
 | [2792-neighboring-bitwise-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2792-neighboring-bitwise-xor) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -359,6 +360,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
@@ -508,6 +510,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
 |  |
 | ------- |
