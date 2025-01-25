@@ -247,6 +247,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3632-button-with-longest-push-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3632-button-with-longest-push-time) |
 | [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -726,6 +727,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Strongly Connected Component
 |  |
 | ------- |
