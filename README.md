@@ -59,6 +59,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
@@ -89,6 +90,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1876-map-of-highest-peak) |
@@ -112,6 +114,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -130,6 +133,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0210-course-schedule-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
