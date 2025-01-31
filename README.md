@@ -66,6 +66,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -122,6 +123,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -141,6 +143,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
