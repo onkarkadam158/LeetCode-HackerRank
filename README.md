@@ -299,6 +299,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -601,6 +602,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -725,6 +727,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1396-count-servers-that-communicate](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
