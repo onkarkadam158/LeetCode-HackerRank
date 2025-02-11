@@ -440,6 +440,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -606,6 +607,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
@@ -639,6 +641,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
