@@ -256,6 +256,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3376-longest-common-suffix-queries](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3376-longest-common-suffix-queries) |
@@ -451,6 +452,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
@@ -705,6 +707,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
