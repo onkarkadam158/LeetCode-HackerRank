@@ -198,6 +198,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -469,6 +470,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0650-2-keys-keyboard](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
+| [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2155-find-missing-observations) |
@@ -756,6 +758,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -767,6 +770,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -847,6 +851,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 ## Memoization
 |  |
 | ------- |
