@@ -475,6 +475,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
@@ -736,6 +737,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0494-target-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
 | ------- |
