@@ -213,6 +213,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1876-map-of-highest-peak](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -736,6 +737,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
