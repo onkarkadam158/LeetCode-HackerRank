@@ -606,6 +606,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -740,6 +741,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2456-construct-smallest-number-from-di-string) |
