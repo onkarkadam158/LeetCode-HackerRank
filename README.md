@@ -56,6 +56,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -89,6 +90,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0854-making-a-large-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -299,6 +301,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -666,6 +669,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0776-n-ary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -681,6 +685,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0515-find-largest-value-in-each-tree-row](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -768,6 +773,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0859-design-circular-deque](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2434-design-a-number-container-system) |
