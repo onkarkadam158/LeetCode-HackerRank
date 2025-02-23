@@ -162,6 +162,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0053-maximum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +284,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
@@ -666,6 +668,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -684,6 +687,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0988-flip-equivalent-binary-trees) |
@@ -907,6 +911,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
