@@ -184,6 +184,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0860-design-circular-queue](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1063-best-sightseeing-pair) |
@@ -300,6 +301,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -672,6 +674,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -690,6 +693,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1207-delete-nodes-and-return-forest) |
@@ -915,6 +919,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0148-sort-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
