@@ -70,6 +70,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -106,6 +107,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2171-second-minimum-time-to-reach-destination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -131,6 +133,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -249,6 +252,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
@@ -684,6 +688,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
