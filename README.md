@@ -514,6 +514,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -620,6 +621,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1097-stream-of-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1097-stream-of-characters) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1304-longest-happy-string) |
