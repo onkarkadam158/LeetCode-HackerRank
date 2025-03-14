@@ -201,6 +201,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1293-three-consecutive-odds](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1293-three-consecutive-odds) |
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1396-count-servers-that-communicate) |
@@ -371,6 +372,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
