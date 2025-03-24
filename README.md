@@ -282,6 +282,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3429-special-array-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -418,6 +419,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2664-maximize-greatness-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2664-maximize-greatness-of-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
