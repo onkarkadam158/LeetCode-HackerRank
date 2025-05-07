@@ -167,6 +167,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -478,6 +479,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
@@ -564,6 +566,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
