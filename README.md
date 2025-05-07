@@ -195,6 +195,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
+| [0921-spiral-matrix-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1025-minimum-cost-for-tickets) |
@@ -485,6 +486,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
+| [0921-spiral-matrix-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1803-average-waiting-time) |
@@ -575,6 +577,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0542-01-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0854-making-a-large-island) |
+| [0921-spiral-matrix-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0921-spiral-matrix-iii) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1311-largest-magic-square](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1311-largest-magic-square) |
