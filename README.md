@@ -252,6 +252,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -345,6 +346,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2434-design-a-number-container-system) |
@@ -430,6 +432,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -791,6 +794,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1753-path-with-minimum-effort](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
