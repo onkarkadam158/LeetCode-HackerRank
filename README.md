@@ -511,6 +511,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 ## Math
@@ -540,6 +541,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -632,6 +634,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1197-parsing-a-boolean-expression](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -944,6 +947,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
