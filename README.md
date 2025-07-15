@@ -713,6 +713,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3376-longest-common-suffix-queries) |
+| [3396-valid-word](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
