@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int helper(string& str,char a,char b,int x){
-        int n=str.size(),sum=0;
+    int remove_ab(string &s ,int x){
         stack<char>st;
-        for(auto ch:str){
-            if(ch==b){
-                if(!st.empty() and st.top()==a){
-                    sum+=x;
+        int count=0;
+        for(auto curr:s){
+            if(!st.empty()){
+                if(st.top()=='a' and curr=='b'){
                     st.pop();
-                }
-                else{
-                    st.push(ch);
+                    count+=x;
+                    continue;
                 }
             }
-            else{
-                st.push(ch);
-            }
+            st.push(curr);
         }
         string temp="";
         while(!st.empty()){
@@ -23,21 +19,41 @@ public:
             st.pop();
         }
         reverse(temp.begin(),temp.end());
-        str=temp;
-        
-        return sum;
+        s=temp;
+        return count;
+    }
+    int remove_ba(string &s ,int y){
+        stack<char>st;
+        int count=0;
+        for(auto curr:s){
+            if(!st.empty()){
+                if(st.top()=='b' and curr=='a'){
+                    st.pop();
+                    count+=y;
+                    continue;
+                }
+            }
+            st.push(curr);
+        }
+        string temp="";
+        while(!st.empty()){
+            temp+=st.top();
+            st.pop();
+        }
+        reverse(temp.begin(),temp.end());
+        s=temp;
+        return count;
     }
     int maximumGain(string s, int x, int y) {
-        int count=0;
+        int result=0;
         if(x>y){
-            count+=helper(s,'a','b',x);
-            count+=helper(s,'b','a',y);
+            result+=remove_ab(s,x);
+            result+=remove_ba(s,y);
         }
         else{
-            count+=helper(s,'b','a',y);
-            cout<<s<<" ";
-            count+=helper(s,'a','b',x);
+            result+=remove_ba(s,y);
+            result+=remove_ab(s,x);
         }
-        return count;
+        return result;
     }
 };
