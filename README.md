@@ -268,6 +268,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2478-longest-nice-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -408,6 +409,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2665-minimum-time-to-repair-cars) |
@@ -908,6 +910,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1813-maximum-erasure-value](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -946,6 +949,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2533-bitwise-xor-of-all-pairings) |
