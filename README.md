@@ -172,6 +172,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0073-set-matrix-zeroes](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
@@ -553,6 +554,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0416-partition-equal-subset-sum) |
