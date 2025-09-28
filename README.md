@@ -200,6 +200,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0921-spiral-matrix-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
+| [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1073-number-of-enclaves) |
@@ -433,6 +434,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
+| [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -456,6 +458,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
 | [1026-string-without-aaa-or-bbb](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1026-string-without-aaa-or-bbb) |
 | [1304-longest-happy-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1304-longest-happy-string) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -535,6 +538,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0650-2-keys-keyboard](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
+| [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1500-count-largest-group) |
