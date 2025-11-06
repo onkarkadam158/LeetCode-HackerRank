@@ -77,6 +77,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -146,6 +148,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -314,6 +317,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -371,6 +375,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -639,6 +644,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Recursion
 |  |
 | ------- |
@@ -828,6 +834,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1015,6 +1022,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2434-design-a-number-container-system) |
+| [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
