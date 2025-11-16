@@ -550,6 +550,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -707,6 +708,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1524-string-matching-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1756-minimum-deletions-to-make-string-balanced) |
