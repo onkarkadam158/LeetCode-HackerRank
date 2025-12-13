@@ -308,6 +308,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
+| [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -372,6 +373,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
+| [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -458,6 +460,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
+| [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -740,6 +743,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
