@@ -202,6 +202,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0944-delete-columns-to-make-sorted](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1025-minimum-cost-for-tickets) |
@@ -692,6 +693,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1026-string-without-aaa-or-bbb) |
