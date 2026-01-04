@@ -219,6 +219,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1390-four-divisors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -550,6 +551,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0670-maximum-swap](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-largest-perimeter-triangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1500-count-largest-group) |
