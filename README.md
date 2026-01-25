@@ -309,6 +309,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3429-special-array-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
+| [3467-transform-array-by-parity](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3467-transform-array-by-parity) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 | [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
@@ -463,6 +464,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3430-count-days-without-meetings) |
+| [3467-transform-array-by-parity](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3467-transform-array-by-parity) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 | [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 ## Greedy
@@ -887,6 +889,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3467-transform-array-by-parity](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3467-transform-array-by-parity) |
 | [3534-count-almost-equal-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3534-count-almost-equal-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
