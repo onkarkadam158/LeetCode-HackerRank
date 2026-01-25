@@ -539,6 +539,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
@@ -752,6 +753,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3396-valid-word](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3498-reverse-degree-of-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
