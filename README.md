@@ -253,6 +253,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1972-rotating-the-box) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -450,6 +451,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -938,6 +940,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2478-longest-nice-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
