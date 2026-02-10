@@ -324,6 +324,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3651-transformed-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3651-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-find-missing-elements) |
 | [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
@@ -384,6 +385,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3606-coupon-code-validator](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
@@ -941,6 +943,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2691-count-vowel-strings-in-ranges](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3644-minimum-positive-sum-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Strongly Connected Component
 |  |
@@ -1046,6 +1049,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0731-my-calendar-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1062,6 +1066,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
