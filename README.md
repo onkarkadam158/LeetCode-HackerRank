@@ -527,6 +527,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | ------- |
 | [0054-spiral-matrix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0906-walking-robot-simulation) |
@@ -556,6 +557,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
@@ -695,6 +697,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -989,6 +992,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
