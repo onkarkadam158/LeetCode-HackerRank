@@ -888,6 +888,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -996,6 +997,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0136-single-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
