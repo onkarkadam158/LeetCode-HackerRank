@@ -400,6 +400,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0075-sort-colors](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0874-backspace-string-compare) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -710,6 +711,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0592-fraction-addition-and-subtraction](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0676-implement-magic-dictionary) |
+| [0696-count-binary-substrings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0726-number-of-atoms) |
