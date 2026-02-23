@@ -359,6 +359,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1256-rank-transform-of-an-array](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
@@ -731,6 +732,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1006,6 +1008,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [0795-k-th-symbol-in-grammar](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0795-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1435-xor-queries-of-a-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1043,6 +1046,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -1055,6 +1059,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
