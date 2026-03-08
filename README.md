@@ -255,6 +255,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1951-find-the-winner-of-the-circular-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1972-rotating-the-box) |
+| [1980-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2035-count-sub-islands) |
@@ -367,6 +368,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1786-count-the-number-of-consistent-strings](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -749,6 +751,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -898,6 +901,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [1160-letter-tile-possibilities](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
