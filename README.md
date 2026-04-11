@@ -328,6 +328,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -390,6 +391,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3863-power-grid-maintenance](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
