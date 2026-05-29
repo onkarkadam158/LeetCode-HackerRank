@@ -302,6 +302,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -590,6 +591,7 @@ https://www.hackerrank.com/onkarkadam158?hr_r=1
 | [2649-count-total-number-of-colored-cells](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3373-maximum-prime-difference](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3373-maximum-prime-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/onkarkadam158/LeetCode-HackerRank/tree/master/3625-stone-removal-game) |
